@@ -1,0 +1,25 @@
+<?php
+// Copyright (c) Forcode
+
+ if(! defined('SYS_LOADER')){
+ die();
+ }
+
+global $pmmod_conf;
+$pmmod_conf = array();
+
+/***************************** SETTINGS **********************************/
+
+// Plugin name
+$pmmod_conf['pmmod_title'] = 'paymentnepal' ;
+
+// Secret key
+$pmmod_conf['secret_key'] = '68e92bab23dff6233db49ec33c9b647d' ;
+
+// Payment key
+$pmmod_conf['key'] = 'BnjylD95ftd0oxcyUxn0nL9NZSr6p9R5xRMyFikn4e4=' ;
+
+
+/****************************************************************************/
+
+?>

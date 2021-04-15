@@ -1,0 +1,14 @@
+go_to_payment = Proceed with payment
+after_submit = After submit yuo will be redirected to Paymentnepal payment page.
+order_n = Order №
+paid_successfully = Successfully payed
+paid_sum = Paid amount
+order_status = Order status
+is_paid = Paid
+final_total = Total
+continue = Continue
+payment_not_made = Payment not made
+payment_errors = Payment error:
+thank_you = Thanks for your payment
+order_number = Order number
+order_is_sended = Your order is being processed
